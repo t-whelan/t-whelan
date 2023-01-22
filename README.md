@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tionne</h1>
 <h3 align="center">A passionate Full-Stack Engineer from South Africa</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-ZA/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-whelan&label=Profile%20views&color=0e75b6&style=flat" alt="t-whelan" /> </p>
 
@@ -15,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [t-whelan@github.com](t-whelan@github.com)
 
-- My curriculum and expertise is based on : [ALX Africa student. The silicone valley of Africa. Real world projects, 70 hours per week.](ALX Africa student. The silicone valley of Africa. Real world projects, 70 hours per week.)
+- My curriculum and expertise is based on ALX Africa |The silicone valley of Africa. |Real world projects, 70 hours per/week
 
 - Passionate about: **Machine learning and AI**
 
