@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Multiple code projects**
 
-- 🌱 I’m currently learning **Linux| Shell | C | HTML| CSS| Python| JavaScript| SQL**
+- 🌱 I currently am proefficent in  **Linux| Shell | HTML| CSS| JavaScript|
 
 - 👯 I’m looking to collaborate on **fun and innovative projects**
 
