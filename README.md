@@ -12,6 +12,9 @@
 - 👯 I’m looking to collaborate on **fun and innovative projects**
 
 - 🎓 Graduated from **Melsoft Academy Bootcamp**,  24 week bootcamp, known as the Silicon Valley of Africa, with real-world project experience and a rigorous curriculum.
+- 📘 Completed a **10-month MERN stack developer program with Velisa Africa Online Training**, gaining in-depth knowledge and practical skills in web development.
+
+
 
 - 👾Passionate about **Machine Learning and AI**
 
