@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tionne</h1>
-<h3 align="center">Passionate Software Developer | Melsoft Academy Bootcamp Graduate | SheCodes Workshop Alumni</h3>
+<h3 align="center">Passionate Mern Stack Software Developer | Melsoft Academy Bootcamp Graduate | SheCodes Workshop Alumni</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-whelan&label=Profile%20views&color=0e75b6&style=flat" alt="t-whelan" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Multiple code projects**
 
-- 🌱 Proficient in **MERN Stack | Next.js | JavaScript | HTML | CSS**
+- 🌱 Proficient in **MERN Stack : MongoDB🍃 Express.js♻️ React.js🔵 Node⚙️| Next.js 🌐**
 
 - 👯 I’m looking to collaborate on **fun and innovative projects**
 
-- 🎓 Graduated from **Melsoft Academy Bootcamp**, known as the Silicon Valley of Africa, with real-world project experience and a rigorous curriculum.
+- 🎓 Graduated from **Melsoft Academy Bootcamp**,  24 week bootcamp, known as the Silicon Valley of Africa, with real-world project experience and a rigorous curriculum.
 
-- Passionate about **Machine Learning and AI**
+- 👾Passionate about **Machine Learning and AI**
 
 - 📫 How to reach me: **whelan.tionne@gmail.com | [LinkedIn](https://linkedin.com/in/t-whelan)**
 
@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://www.svgrepo.com/svg/368858/nextjs" alt="nextjs" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-whelan&show_icons=true&locale=en&layout=compact" alt="t-whelan" /></p>
