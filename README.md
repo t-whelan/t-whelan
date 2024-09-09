@@ -18,7 +18,7 @@
 
 - 👾Passionate about **Machine Learning and AI**
 
-- 📫 How to reach me: **whelan.tionne@gmail.com | [LinkedIn](https://linkedin.com/in/t-whelan)**
+- 📫 How to reach me: **whelan.tionne@gmail.com | [LinkedIn](https://www.linkedin.com/in/tionne-whelan/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
